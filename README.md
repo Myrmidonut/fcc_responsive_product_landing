@@ -22,6 +22,9 @@ This project is part of freeCodeCamps Responsive Web Design certificate.
 * The product landing page should have at least one media query.
 * The product landing page should utilize CSS flexbox at least once.
 
+## Final Project
+https://myrmidonut.github.io/fcc_responsive_product_landing
+
 ## Preview Images
 ### Main Screen 1:
 ![Product Landing Page](readme_images/product-landing-page-1.png)
