@@ -23,9 +23,11 @@ This project is part of freeCodeCamps Responsive Web Design certificate.
 * The product landing page should utilize CSS flexbox at least once.
 
 ## Preview Images
-### Main Screen:
+### Main Screen 1:
 ![Product Landing Page](readme_images/product-landing-page-1.png)
 
+### Main Screen 2:
 ![Product Landing Page](readme_images/product-landing-page-2.png)
 
+### Main Screen 3:
 ![Product Landing Page](readme_images/product-landing-page-3.png)
