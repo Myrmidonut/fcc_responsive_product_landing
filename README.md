@@ -26,11 +26,8 @@ This project is part of freeCodeCamps Responsive Web Design certificate.
 https://myrmidonut.github.io/fcc_responsive_product_landing
 
 ## Preview Images
-### Main Screen 1:
+### Main View:
 ![Product Landing Page](readme_images/product-landing-page-1.png)
 
-### Main Screen 2:
+### Mobile View:
 ![Product Landing Page](readme_images/product-landing-page-2.png)
-
-### Main Screen 3:
-![Product Landing Page](readme_images/product-landing-page-3.png)
