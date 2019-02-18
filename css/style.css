@@ -1,5 +1,6 @@
 * {
   margin: 0;
+  scroll-behavior: smooth;
 }
 
 header, main {
@@ -46,6 +47,8 @@ main {
 
 .hamburger-container .nav-link {
   margin-left: 0;
+  margin: 5px;
+  padding: 10px;
 }
 
 .nav-link-container {
