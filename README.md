@@ -5,6 +5,8 @@ This website shows a presentation of a product, a company or similar content, in
 
 This project is part of freeCodeCamps Responsive Web Design certificate.
 
+***
+
 ## Project Requirements
 * The product landing page should have a header element with a corresponding id="header".
 * The page shows an image within the header element with a corresponding id="header-img". A company logo would make a good image here.
@@ -22,8 +24,12 @@ This project is part of freeCodeCamps Responsive Web Design certificate.
 * The product landing page should have at least one media query.
 * The product landing page should utilize CSS flexbox at least once.
 
+***
+
 ## Final Project
 https://myrmidonut.github.io/fcc_responsive_product_landing
+
+***
 
 ## Preview Images
 ### Main View:
